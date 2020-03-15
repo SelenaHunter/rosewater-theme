@@ -1,10 +1,10 @@
 # rosewater WordPress Theme
 
-A simple styled WordPress Theme built using Foundation and html5 Blank Slate. 
+A simply styled WordPress Theme built using Foundation and html5 Blank Slate. 
 
 ## Getting Started
 
-This theme can be added to your wp-content/themes folder and run as a theme. Visit https://selenahunter.github.io/rosewater-theme/ to see it in action.
+Visit https://selenahunter.github.io/rosewater-theme/ to see the theme in action.
 
 ## Built Using
 
